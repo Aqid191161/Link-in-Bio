@@ -2,6 +2,12 @@
 
 Template website "link in bio" yang bersih dan modern, dibangun dengan HTML, TailwindCSS, dan JavaScript.
 
+## 🔗 Demo
+
+[Link in Bio Demo](https://aqid191161.github.io/Link-in-Bio/index.html)
+
+
+
 ## 🚀 Memulai
 
 1. Buka file `index.html` di editor kode (seperti Visual Studio Code)
@@ -134,4 +140,3 @@ Kemudian buka `http://localhost:8000` di perangkat mobile Anda (pastikan kedua p
 - [TailwindCSS](https://tailwindcss.com/) untuk styling
 - Google Fonts: [Poppins](https://fonts.google.com/specimen/Poppins) & [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Unsplash](https://unsplash.com/) untuk gambar sampel
-
